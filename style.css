@@ -1,0 +1,147 @@
+/* Global CSS Start*/
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0eeee;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+/* Global CSS End */
+
+/* Header Section CSS Start Here */
+.logo{
+    width: 200px;
+    height: auto;
+}
+
+.header{
+    background-color: #F0FFF0;
+}
+
+.menu-highlight-button{
+    background-color: #21B573;
+    border-radius: 20px;
+    color: white !important;
+   
+    width: 100px;
+    height: auto;
+}
+
+.header-banner{
+    padding: 70px 0px;
+    
+}
+.orange-text{
+    color: #FD511A;
+}
+
+.green-text{
+    color: #21B573
+}
+
+.banner-text{
+    color: #6C6B6B;
+    margin: 40px 0;
+    line-height: 2em;
+}
+
+.get-started-button, .buy-button{
+    background-color: #21B573;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+
+/* Header Section CSS End Here */
+
+
+/* Statistic Section CSS Start Here */
+
+.single-image{
+    width: 100px;
+    height: auto;
+    padding: 25px;
+    vertical-align: middle;
+}
+
+
+.image-box{
+    width: 100%;
+    height: auto;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    padding: 20px 20px;
+    border: none;
+}
+
+.featured-box{
+    width: 100%;
+    height: auto;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    padding: 20px 20px;
+    box-shadow: 0px 20px 40px lightgrey;
+}
+
+/* Statistic Section CSS End Here */ 
+
+/* Course Section CSS Start Here */
+.course-icon{
+    width: 25px;
+    height: 25px;
+}
+
+.course-footer-text{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.card-footer{
+    border-top: none;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+/* Course Section CSS End Here */
+
+/* Testimonial Section CSS Start Here */
+/* .client-image{
+    position: relative;
+    left: 50%;
+} */
+
+.client-text{
+    padding: 0px 100px;
+}
+
+/* Testimonial Section CSS End Here */
+
+/* Subscribe Section CSS Start Here */
+
+.subscribe{
+    background-color: #21B573;
+    border-radius: 10px;
+}
+
+/* Subscribe Section CSS End Here */
+
+/* Footer Section CSS Start Here */
+
+.footer{
+    background-color: #282531;
+}
+
+.about-text{
+    margin-right: 80px;
+}
+
+.footer-links{
+    text-decoration: none;
+    color: white;
+}
+
+/* Footer Section CSS End Here */
